@@ -1,0 +1,20 @@
+[
+    {
+      "role": "UX Engineer Intern",
+      "organisation": "Schneider Electric",
+      "startDate": "Apr, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on WalkMe", "Sharepoints creaation and auditing different sites"],
+      "imageSrc": "history/schneiderelec.png"
+    },
+    {
+      "role": "Administrative Support & IT Assistance Intern",
+      "organisation": "CST",
+      "startDate": "Dec, 2023",
+      "endDate": "Feb, 2024",
+      "experiences": ["Assisted in administrative tasks and provided IT support", "Assisted in ethernet cable installation"],
+      "imageSrc": "history/cst.jpeg"
+    }
+    
+]
+  

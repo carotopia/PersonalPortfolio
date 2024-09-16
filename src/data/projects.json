@@ -1,0 +1,25 @@
+[
+    {
+      "title": "Frisa App",
+      "imageSrc": "projects/foto1.png",
+      "description": "Designed a catalog system for users to discover nearby assistance organizations.",
+      "skills": ["Android Studio", "JetpackCompose", "MongoDB"]
+    },
+    {
+      "title": "Neora Chatbot",
+      "imageSrc": "projects/foto2.png",
+      "description": "Web application chatbot, using Cite and TypeScript for the backend, Tailwind CSS, and React for the frontend.",
+      "skills": ["React", "Tailwind", "Typescript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Vida Plena",
+      "imageSrc": "projects/vidaplena1.png",
+      "description": "Developed a web application tailored for elderly individuals for them to take well-being test.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  
