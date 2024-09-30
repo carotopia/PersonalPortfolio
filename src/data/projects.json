@@ -20,6 +20,42 @@
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
+    },
+    {
+      "title": "Machine Learning for Kids",
+      "imageSrc": "projects/Scratch.png",
+      "description": "Organized classes teaching kids the fundamentals of machine learning using Scratch, helping them understand concepts like classification and training data.",
+      "skills": ["Scratch", "Machine Learning"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Unity Classes Using Unity and C#",
+      "imageSrc": "projects/unity.png",
+      "description": "Conducted Unity classes where students learned how to create 2D and 3D games using Unity and C#. Topics covered included physics, game objects, and basic game development concepts.",
+      "skills": ["Unity", "C#", "Game Development"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Intelligent Vegetable Patch",
+      "imageSrc": "projects/vegetable.png",
+      "description": "Developed a smart vegetable patch system using Arduino to monitor soil moisture, temperature, and humidity. Parsed sensor data using Python for real-time analysis to optimize conditions.",
+      "skills": ["Arduino", "Python", "Data Parsing", "IoT"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Harvester Simulation for John Deere Using Q-Learning",
+      "imageSrc": "projects/harvest.png",
+      "description": "Simulated autonomous harvester operations in Unity for John Deere, implementing Q-Learning to optimize route planning and harvesting efficiency. ",
+      "skills": ["Unity", "Q-Learning", "C#", "AI", "Machine Learning"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
     }
+    
+
+    
+
   ]
   
